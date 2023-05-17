@@ -1,6 +1,7 @@
 ## About ME
 
 - 🔭 I am currently working as an assistant python teacher at Digital Career Institute
+- 👨‍🎓 I have master's degree in condensed matter physics
 - ⚡ Fun fact: I code and cook without reading the documentation
 
 
